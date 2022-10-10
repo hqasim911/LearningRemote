@@ -1,2 +1,3 @@
 Hello
 Test with fetch and pull
+If git pull works this will show locally.
